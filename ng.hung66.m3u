@@ -313,32 +313,18 @@ https://lstvlive.quanlehong539.workers.dev/hls/VOTONG/index.m3u8
 #EXTINF:-1 group-title=" ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Yến Thanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://lstvlive.quanlehong539.workers.dev/hls/YENTHANH1/index.m3u8
-#EXTINF:-1 tvg-id="phaohoa-791558-1" tvg-name="[18:00 27/07] Singapore VS Timor-Leste [BLV Dế Lửa]" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_483.jpg" group-title="🔴Bóng Đá Live - Thử Nghiệm",[18:00 27/07] Singapore VS Timor-Leste [BLV Dế Lửa]
-#EXTGRP:🔴Bóng Đá Live - Thử Nghiệm
-# Giờ: 18:00 27/07
-https://luong.phaohoa.live/live/phaohoa1/index.m3u8?expire=1815505159&sign=9137553faeae361734eec8bda5ea16e2
 
-#EXTINF:-1 tvg-id="phaohoa-791559-1" tvg-name="[20:30 27/07] Indonesia VS Cambodia [BLV Dế Lửa]" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_484.jpg" group-title="🔴Bóng Đá Live - Thử Nghiệm",[20:30 27/07] Indonesia VS Cambodia [BLV Dế Lửa]
-#EXTGRP:🔴Bóng Đá Live - Thử Nghiệm
-# Giờ: 20:30 27/07
-http://127.0.0.1:9/__phaohoa_metadata__/791559.m3u8
-
-#EXTINF:-1 tvg-id="phaohoa-152523-1" tvg-name="[20:30 27/07] Indonesia VS Cambodia [BLV Kevin]" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_484.jpg" group-title="🔴Bóng Đá Live - Thử Nghiệm",[20:30 27/07] Indonesia VS Cambodia [BLV Kevin]
-#EXTGRP:🔴Bóng Đá Live - Thử Nghiệm
-# Giờ: 20:30 27/07
-http://127.0.0.1:9/__phaohoa_metadata__/152523.m3u8
-
-#EXTINF:-1 tvg-id="phaohoa-736649-1" tvg-name="[22:00 27/07] Lok. Tashkent VS Sogdiana [BLV Chim Nhỏ]" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_8003.jpg" group-title="🔴Bóng Đá Live - Thử Nghiệm",[22:00 27/07] Lok. Tashkent VS Sogdiana [BLV Chim Nhỏ]
+#EXTINF:-1 tvg-id="phaohoa-736649-1" tvg-name="[22:00 27/07] Lok Tashkent VS Sogdiana [BLV Kevin 5 phút trước bye ae Minh Đức Lv3 5]" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_8003.jpg" group-title="🔴Bóng Đá Live - Thử Nghiệm",[22:00 27/07] Lok Tashkent VS Sogdiana [BLV Kevin 5 phút trước bye ae Minh Đức Lv3 5]
 #EXTGRP:🔴Bóng Đá Live - Thử Nghiệm
 # Giờ: 22:00 27/07
-http://127.0.0.1:9/__phaohoa_metadata__/736649.m3u8
+https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
 
-#EXTINF:-1 tvg-id="phaohoa-774982-1" tvg-name="[22:30 27/07] CFR Cluj VS FC Voluntari [BLV KaKa]" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_120.jpg" group-title="🔴Bóng Đá Live - Thử Nghiệm",[22:30 27/07] CFR Cluj VS FC Voluntari [BLV KaKa]
+#EXTINF:-1 tvg-id="phaohoa-774982-1" tvg-name="[22:30 27/07] Cfr Cluj VS FC Voluntari [BLV Kevin 5 phút trước bye ae Minh Đức Lv3 5]" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_120.jpg" group-title="🔴Bóng Đá Live - Thử Nghiệm",[22:30 27/07] Cfr Cluj VS FC Voluntari [BLV Kevin 5 phút trước bye ae Minh Đức Lv3 5]
 #EXTGRP:🔴Bóng Đá Live - Thử Nghiệm
 # Giờ: 22:30 27/07
-http://127.0.0.1:9/__phaohoa_metadata__/774982.m3u8
+https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
 
-#EXTINF:-1 tvg-id="phaohoa-781988-1" tvg-name="[23:00 27/07] Artis Brno VS Mlada Boleslav [BLV Pháo Thủ]" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_2620.jpg" group-title="🔴Bóng Đá Live - Thử Nghiệm",[23:00 27/07] Artis Brno VS Mlada Boleslav [BLV Pháo Thủ]
+#EXTINF:-1 tvg-id="phaohoa-781988-1" tvg-name="[23:00 27/07] Artis Brno VS Mlada Boleslav [BLV Kevin 5 phút trước bye ae Minh Đức Lv3 5]" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_2620.jpg" group-title="🔴Bóng Đá Live - Thử Nghiệm",[23:00 27/07] Artis Brno VS Mlada Boleslav [BLV Kevin 5 phút trước bye ae Minh Đức Lv3 5]
 #EXTGRP:🔴Bóng Đá Live - Thử Nghiệm
 # Giờ: 23:00 27/07
 http://127.0.0.1:9/__phaohoa_metadata__/781988.m3u8
@@ -348,7 +334,27 @@ http://127.0.0.1:9/__phaohoa_metadata__/781988.m3u8
 # Giờ: 00:00 28/07
 http://127.0.0.1:9/__phaohoa_metadata__/715556.m3u8
 
-#EXTINF:-1 tvg-id="phaohoa-774498-1" tvg-name="[01:15 28/07] CSKA Sofia VS Botev Plovdiv [BLV Pháo Thủ]" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_483.jpg" group-title="🔴Bóng Đá Live - Thử Nghiệm",[01:15 28/07] CSKA Sofia VS Botev Plovdiv [BLV Pháo Thủ]
+#EXTINF:-1 tvg-id="phaohoa-774498-1" tvg-name="[01:15 28/07] CSKA Sofia VS Botev Plovdiv [BLV Pháo Thủ]" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_140.jpg" group-title="🔴Bóng Đá Live - Thử Nghiệm",[01:15 28/07] CSKA Sofia VS Botev Plovdiv [BLV Pháo Thủ]
 #EXTGRP:🔴Bóng Đá Live - Thử Nghiệm
 # Giờ: 01:15 28/07
 http://127.0.0.1:9/__phaohoa_metadata__/774498.m3u8
+
+#EXTINF:-1 tvg-id="phaohoa-821374-1" tvg-name="[16:30 28/07] Real Madrid VS Leganes [BLV Dế Lửa]" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_76.jpg" group-title="🔴Bóng Đá Live - Thử Nghiệm",[16:30 28/07] Real Madrid VS Leganes [BLV Dế Lửa]
+#EXTGRP:🔴Bóng Đá Live - Thử Nghiệm
+# Giờ: 16:30 28/07
+http://127.0.0.1:9/__phaohoa_metadata__/821374.m3u8
+
+#EXTINF:-1 tvg-id="phaohoa-712690-1" tvg-name="[16:45 28/07] Chelsea VS WS Wanderers [BLV Chim Nhỏ]" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_88.jpg" group-title="🔴Bóng Đá Live - Thử Nghiệm",[16:45 28/07] Chelsea VS WS Wanderers [BLV Chim Nhỏ]
+#EXTGRP:🔴Bóng Đá Live - Thử Nghiệm
+# Giờ: 16:45 28/07
+http://127.0.0.1:9/__phaohoa_metadata__/712690.m3u8
+
+#EXTINF:-1 tvg-id="phaohoa-791560-1" tvg-name="[17:00 28/07] Philippines VS Myanmar [BLV Kevin]" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_8003.jpg" group-title="🔴Bóng Đá Live - Thử Nghiệm",[17:00 28/07] Philippines VS Myanmar [BLV Kevin]
+#EXTGRP:🔴Bóng Đá Live - Thử Nghiệm
+# Giờ: 17:00 28/07
+http://127.0.0.1:9/__phaohoa_metadata__/791560.m3u8
+
+#EXTINF:-1 tvg-id="phaohoa-791561-1" tvg-name="[20:00 28/07] Malaysia VS Laos [BLV Dế Lửa]" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_8003.jpg" group-title="🔴Bóng Đá Live - Thử Nghiệm",[20:00 28/07] Malaysia VS Laos [BLV Dế Lửa]
+#EXTGRP:🔴Bóng Đá Live - Thử Nghiệm
+# Giờ: 20:00 28/07
+http://127.0.0.1:9/__phaohoa_metadata__/791561.m3u8
