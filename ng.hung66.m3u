@@ -327,7 +327,3 @@ http://127.0.0.1:9/__phaohoa_metadata__/781988.m3u8
 # Giờ: 00:00 28/07
 http://127.0.0.1:9/__phaohoa_metadata__/715556.m3u8
 
-#EXTINF:-1 tvg-id="phaohoa-774498-1" tvg-name="[01:15 28/07] CSKA Sofia VS Botev Plovdiv [BLV Pháo Thủ]" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_483.jpg" group-title="🔴Bóng Đá Live - Thử Nghiệm",[01:15 28/07] CSKA Sofia VS Botev Plovdiv [BLV Pháo Thủ]
-#EXTGRP:🔴Bóng Đá Live - Thử Nghiệm
-# Giờ: 01:15 28/07
-http://127.0.0.1:9/__phaohoa_metadata__/774498.m3u8
