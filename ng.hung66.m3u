@@ -312,7 +312,3 @@ https://lstvlive.quanlehong539.workers.dev/hls/VOTONG/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://lstvlive.quanlehong539.workers.dev/hls/YENTHANH1/index.m3u8
 
-#EXTINF:-1 tvg-id="phaohoa-736649-1" tvg-name="[22:00 27/07] Lok Tashkent VS Sogdiana [BLV Kevin 5 phút trước bye ae Minh Đức Lv3 5]" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_8003.jpg" group-title="🔴Bóng Đá Live - Thử Nghiệm",[22:00 27/07] Lok Tashkent VS Sogdiana [BLV Kevin 5 phút trước bye ae Minh Đức Lv3 5]
-#EXTGRP:🔴Bóng Đá Live - Thử Nghiệm
-# Giờ: 22:00 27/07
-https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
