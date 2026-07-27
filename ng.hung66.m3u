@@ -5,6 +5,10 @@ https://s6.kkphimplayer6.com/20251118/obSmOjv7/index.m3u8
 https://247.dpdns.org/VIP/vtv6/nactha
 #EXTINF:-1 tvg-id="vtv7hd" group-title="⚽️🇻🇳🏆ASEAN CUP 2026" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/7.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=459&time=${start}&offset=${duration}, VTV7 - by ng.hung66
 https://247.dpdns.org/VIP/vtv7/nactha
+#EXTINF:-1 tvg-id="vtv6" group-title="⚽️🇻🇳🏆ASEAN CUP 2026" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/6.png" , VTV6
+https://vips-livecdn.fptplay.net/live/media/v6abr/live247-hls-avc/v6abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/7.png" group-title="⚽️🇻🇳🏆ASEAN CUP 2026",VTV7
+https://vips-livecdn.fptplay.net/live/media/v7abr/live247-hls-avc/v7abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport - by ng.hung66
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=958758&extension=ts&play_token=MskDtCSrpn
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png", Canal+ Foot - by ng.hung66
