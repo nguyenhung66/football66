@@ -1,11 +1,10 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
 
-https://vips-livecdn.fptplay.net/live/media/v7abr/live247-hls-avc/v7abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport - Football66
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport - Thử Nghiệm⚙️
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=958758&extension=ts&play_token=MskDtCSrpn
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png", Canal+ Foot - Football66
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png", Canal+ Foot - Thử Nghiệm⚙️
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941405&extension=ts&play_token=ODWyLygMWo
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", 🔴MUTV - Ng Trọng Minh Châu
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", 🔴MUTV - Thử Nghiệm⚙️
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=79284&extension=ts&play_token=BehiqjFJMV
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳THỂ THAO VIỆT NAM" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/6.png", VTV6 - Football66
