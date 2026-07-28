@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Lý thuyết" group-title="Bài 1 - Liên Hợp Quốc",Lý thuyết
+https://www.dropbox.com/scl/fi/6dcxnm5uu57sh0dto17bj/B-i-1-Li-n-H-p-Qu-c.webm?rlkey=qgnzc1xrj06nta1kdjnglml43&st=v1laakhf&dl=1
+#EXTINF:-1 tvg-id="" tvg-name="Chữa Đề - ib Nguyễn Hưng lấy file đề" group-title="Bài 1 - Liên Hợp Quốc",Chữa Đề - ib Nguyễn Hưng lấy file đề
+https://www.dropbox.com/scl/fi/fsxgmpuroxvrmkbbn4uro/CH-A-B-I-1.webm?rlkey=dx85m2wtiyd0d67gqfldxwmgy&st=6w5sdmxk&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Lý Thuyết" group-title="Bài 2 - Trật tự thế giới trong Chiến tranh lạnh",B2 - Lý Thuyết
+https://www.dropbox.com/scl/fi/phd5utqo3g6lu420e8uev/B-I-2-Tr-t-t-th-gi-i-trong-Chi-n-tranh-l-nh.webm?rlkey=nrfo2f7tijj7kirh558by0isa&st=w42xe25k&dl=1
+#EXTINF:-1 tvg-id="" tvg-name="B2 - Chữa Đề p1" group-title="Bài 2 - Trật tự thế giới trong Chiến tranh lạnh",B2 - Chữa Đề p1 - ib Nguyễn Hưng lấy file đề
+https://www.dropbox.com/scl/fi/c1zcuy4karzzh08vm5fqe/Ch-a-ph-n-1.mp4?rlkey=nn6jhgn3hqiq7iwu3sl1lo9ps&st=78eyzn0o&dl=1
+
+#EXTINF:-1 group-title="Bài 1 - Liên Hợp Quốc - Live C",Lý Thuyết p1
+https://www.dropbox.com/scl/fi/yfi5sydaqskimzy0ydszk/LiveC-B1-P1.mp4?rlkey=75fc8ebqmhv6hlk7o72e4xe1a&st=st78ub8x&raw=1
+
+#EXTINF:-1 group-title="Bài 1 - Liên Hợp Quốc",Lý Thuyết P1
+#EXTVLCOPT:http-referrer=https://sangsang.edu.vn/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://storage-cf.sangsang.edu.vn/elearning-hls-video/2026/07/14/0714-de1e7297_0500_hls/master.m3u8
