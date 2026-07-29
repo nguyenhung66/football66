@@ -80,6 +80,10 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=958758&extension=ts&play_token=MskDtCSrpn
 #EXTINF:-1 group-title="⚽️Football 66" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png", Canal+ Foot - Thử Nghiệm⚙️
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941405&extension=ts&play_token=ODWyLygMWo
+#EXTINF:-1 group-title="⚽️Football 66" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/250px-Polsat_Sport_1_2024.svg.png",Polsat Sport 1 - Thử Nghiệm⚙️
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1729162&extension=ts&play_token=9JXfYd9pyq
+#EXTINF:-1 group-title="⚽️Football 66" tvg-logo="https://ipla-e2-42.pluscdn.pl/p/cms_thumbnails/qx/qxn4b9d2175hjjvvy4ehpa92nztaynba.png",Polsat Sport 2 - Thử Nghiệm⚙️
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1729164&extension=ts&play_token=vFbihF9Rmr
 #EXTINF:-1 group-title="⚽️Football 66" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", 🔴MUTV - Thử Nghiệm⚙️
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=79284&extension=ts&play_token=BehiqjFJMV
 
