@@ -1,18 +1,44 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
 
-#EXTINF:-1 group-title="🎯⚽️ Bóng Đá Đỉnh Cao" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/logofootball-m3u/main/VTV6football66.png",🕒 19:30 | Manchester United vs Liverpool | Server 1
-https://example.com/server1.m3u8
 
-#EXTINF:-1 group-title="🎯⚽️ Bóng Đá Đỉnh Cao" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/logofootball-m3u/main/VTV6football66.png",🕒 19:30 | Manchester United vs Liverpool | Server 2
-https://example.com/server2.m3u8
 
-#EXTINF:-1 group-title="🎯⚽️ Bóng Đá Đỉnh Cao" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/logofootball-m3u/main/VTV6football66.png",🕒 22:00 | Real Madrid vs Barcelona | Server 3
-https://example.com/server3.m3u8
+
+#EXTINF:-1 group-title="🎯⚽️ Bóng Đá Đỉnh Cao",🕒 19:00 | MUN vs LIV | Server 1
+https://...
+
+#EXTINF:-1 group-title="🎯⚽️ Bóng Đá Đỉnh Cao",🕒 19:30 | ARS vs CHE | Server 2
+https://...
+
+#EXTINF:-1 group-title="🎯⚽️ Bóng Đá Đỉnh Cao",🕒 20:00 | MCI vs TOT | Server 3
+https://...
+
+#EXTINF:-1 group-title="🎯⚽️ Bóng Đá Đỉnh Cao",🕒 21:00 | RMA vs BAR | Server 4
+https://...
+
+#EXTINF:-1 group-title="🎯⚽️ Bóng Đá Đỉnh Cao",🕒 22:00 | PSG vs BAY | Server 5
+https://...
+
+#EXTINF:-1 group-title="🎯⚽️ Bóng Đá Đỉnh Cao",🕒 23:00 | INT vs JUV | Server 6
+https://...
+
+#EXTINF:-1 group-title="🎯⚽️ Bóng Đá Đỉnh Cao",🕒 00:00 | MIL vs NAP | Server 7
+https://...
+
+#EXTINF:-1 group-title="🎯⚽️ Bóng Đá Đỉnh Cao",🕒 01:00 | ATM vs SEV | Server 8
+https://...
+
+#EXTINF:-1 group-title="🎯⚽️ Bóng Đá Đỉnh Cao",🕒 02:00 | DOR vs LEV | Server 9
+https://...
+
+
+
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="⚽️Football 66" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/logofootball-m3u/main/VTV6football66.png", VTV6 - Football66
 https://event-a.fptplay53.net/live/media/v6abr/live247-hls-avc/v6abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
+
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="⚽️Football 66" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/logofootball-m3u/main/HTVthethaofootball66.png", HTV Thể Thao - Football66
 https://live.fptplay53.net/live/media/htvthethao/live247-hls-avc/htvthethao-avc1_5600000=10000-mp4a_131600=20000.m3u8
+
 #EXTINF:-1 tvg-id="onsports" group-title="⚽️Football 66" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/logofootball-m3u/main/OnSportsfootball66.png", ON SPORTS - Football66
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive 
@@ -20,6 +46,7 @@ https://live.fptplay53.net/live/media/htvthethao/live247-hls-avc/htvthethao-avc1
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10 
 https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_HD/manifest.mpd
+
 #EXTINF:-1 tvg-id="onsportsplus" group-title="⚽️Football 66" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/logofootball-m3u/main/OnSports%2Bfootball66.png", ON SPORTS+ - Football66
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive 
@@ -27,6 +54,7 @@ https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10 
 https://cdnet-cdn-01.onsports.vn/onplus/HAY_TV/manifest.mpd
+
 #EXTINF:-1 tvg-id="onfootball" group-title="⚽️Football 66" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/logofootball-m3u/main/OnFootball66.png", ON FOOTBALL - Football66
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive 
@@ -34,6 +62,7 @@ https://cdnet-cdn-01.onsports.vn/onplus/HAY_TV/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10 
 https://cdnet-cdn-01.onsports.vn/onplus/BONGDA_HD/manifest.mpd
+
 #EXTINF:-1 tvg-id="onsportsnews" group-title="⚽️Football 66" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/logofootball-m3u/main/OnSportsNewsfootball66.png", ON SPORTS NEWS - Football66
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive 
@@ -47,30 +76,36 @@ https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_TINTUC_HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10 
 https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_TINTUC_HD/manifest.mpd
+
 #EXTINF:-1 tvg-id="tv360plus9" group-title="⚽️Football 66" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/logofootball-m3u/main/TV360%2B9football66.png",TV360+9 - Football66
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=tv360-9
+
 #EXTINF:-1 tvg-id="tv360plus10" group-title="⚽️Football 66" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/logofootball-m3u/main/TV360%2B10football66.png",TV360+10 - Football66
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=tv360-10
+
 #EXTINF:-1 tvg-id="tv360plus12" group-title="⚽️Football 66" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/logofootball-m3u/main/TV360%2B12football66.png",TV360+12 - Football66
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=29b3e7c5de895bfa8850f16dad16e378:72a9e1be1d94ad66207f1ac61bcf7681
 https://vmttv.dpdns.org/tv360/?id=tv360-12
+
 #EXTINF:-1 tvg-id="sctv15" group-title="⚽️Football 66" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/logofootball-m3u/main/SCTV15football66.png", SCTV15 - Football66
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/mean/SCTV15HD/manifest.mpd
+
 #EXTINF:-1 tvg-id="sctv17" group-title="⚽️Football 66" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/logofootball-m3u/main/SCTV17football66.png", SCTV17 - Football66
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/mean/SCTV17/manifest.mpd
+
 #EXTINF:-1 tvg-id="sctv22hd" group-title="⚽️Football 66" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/logofootball-m3u/main/SCTV22football66.png" catchup="append" catchup-days="2" catchup-source="/catchup2/829/${start}/${end}/tvid_sctv22hd",SCTV22 - Football66
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -80,25 +115,41 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd
 
 #EXTINF:-1 group-title="⚽️Football 66" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport - Thử Nghiệm⚙️
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=958758&extension=ts&play_token=MskDtCSrpn
+
 #EXTINF:-1 group-title="⚽️Football 66" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png", Canal+ Foot - Thử Nghiệm⚙️
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941405&extension=ts&play_token=ODWyLygMWo
+
 #EXTINF:-1 group-title="⚽️Football 66" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/250px-Polsat_Sport_1_2024.svg.png",Polsat Sport 1 - Thử Nghiệm⚙️
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1729162&extension=ts&play_token=9JXfYd9pyq
+
 #EXTINF:-1 group-title="⚽️Football 66" tvg-logo="https://ipla-e2-42.pluscdn.pl/p/cms_thumbnails/qx/qxn4b9d2175hjjvvy4ehpa92nztaynba.png",Polsat Sport 2 - Thử Nghiệm⚙️
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1729164&extension=ts&play_token=vFbihF9Rmr
+
 #EXTINF:-1 group-title="⚽️Football 66" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", 🔴MUTV - Thử Nghiệm⚙️
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=79284&extension=ts&play_token=BehiqjFJMV
 
+
+
+
 #EXTINF:-1 tvg-id="vtv6" group-title="⚽️🇻🇳🏆ASEAN CUP 2026" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/logofootball-m3u/main/VTV6football66.png" , VTV6 - Football66
 https://vips-livecdn.fptplay.net/live/media/v6abr/live247-hls-avc/v6abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+
 #EXTINF:-1 tvg-id="tv360plus9" group-title="⚽️🇻🇳🏆ASEAN CUP 2026" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/logofootball-m3u/main/TV360%2B9football66.png",TV360+9 - Football66
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=tv360-9
+
 #EXTINF:-1 tvg-id="tv360plus10" group-title="⚽️🇻🇳🏆ASEAN CUP 2026" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/logofootball-m3u/main/TV360%2B10football66.png",TV360+10 - Football66
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=tv360-10
+
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/1.png" group-title=" 🖥️Thời Sự", VTV1
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Chi Tiết Bản Cập Nhật 🛠️" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/logofootball-m3u/dc305b1172bdd806b642e8e8763bfa29c44ee2ca/Football66v.5.0.png" group-title="⚙️Bản Cập Nhật",Chi Tiết Bản Cập Nhật 🛠️
 https://raw.githubusercontent.com/nguyenhung66/logofootball-m3u/57806b32dc951a5a9ce5125f0c5ec3e50188bd90/video_260728_171954.mp4
