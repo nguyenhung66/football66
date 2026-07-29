@@ -1,5 +1,12 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
 
+#EXTINF:-1 tvg-id="phaohoa-17314220d118-1" tvg-name="🔴Bán kết 2 VNL - Football 66" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4xNC98N.jpg",🔴Bán kết 2 VNL - Football 66
+#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://phaohoa1.live
+#EXTVLCOPT:http-reconnect=true
+https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
+
 #EXTINF:-1 tvg-id="vtv6hd" group-title="⚽️Football 66" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/logofootball-m3u/main/VTV6football66.png", VTV6 - Football66
 https://event-a.fptplay53.net/live/media/v6abr/live247-hls-avc/v6abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="⚽️Football 66" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/logofootball-m3u/main/HTVthethaofootball66.png", HTV Thể Thao - Football66
@@ -87,5 +94,5 @@ https://vmttv.dpdns.org/tv360/?id=tv360-10
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/1.png" group-title=" 🖥️Thời Sự", VTV1
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Chi Tiết Bản Cập Nhật 🛠️" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/iptv/4ba47a51af0fe1a5f5cb77d80b92e9f49c83112a/Logo.png" group-title="⚙️Bản Cập Nhật",Chi Tiết Bản Cập Nhật 🛠️
-https://raw.githubusercontent.com/nguyenhung66/iptv/d8f24a921ead16e6ab914f7f8d6929448b43b8cc/VideoCapNhatPhienBan.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chi Tiết Bản Cập Nhật 🛠️" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/logofootball-m3u/dc305b1172bdd806b642e8e8763bfa29c44ee2ca/Football66v.5.0.png" group-title="⚙️Bản Cập Nhật",Chi Tiết Bản Cập Nhật 🛠️
+https://raw.githubusercontent.com/nguyenhung66/logofootball-m3u/57806b32dc951a5a9ce5125f0c5ec3e50188bd90/video_260728_171954.mp4
