@@ -1,5 +1,14 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
 
+#EXTINF:-1 group-title="🎯⚽️ Bóng Đá Đỉnh Cao" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/logofootball-m3u/main/VTV6football66.png",🕒 19:30 | Manchester United vs Liverpool | Server 1
+https://example.com/server1.m3u8
+
+#EXTINF:-1 group-title="🎯⚽️ Bóng Đá Đỉnh Cao" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/logofootball-m3u/main/VTV6football66.png",🕒 19:30 | Manchester United vs Liverpool | Server 2
+https://example.com/server2.m3u8
+
+#EXTINF:-1 group-title="🎯⚽️ Bóng Đá Đỉnh Cao" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/logofootball-m3u/main/VTV6football66.png",🕒 22:00 | Real Madrid vs Barcelona | Server 3
+https://example.com/server3.m3u8
+
 #EXTINF:-1 tvg-id="vtv6hd" group-title="⚽️Football 66" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/logofootball-m3u/main/VTV6football66.png", VTV6 - Football66
 https://event-a.fptplay53.net/live/media/v6abr/live247-hls-avc/v6abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="⚽️Football 66" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/logofootball-m3u/main/HTVthethaofootball66.png", HTV Thể Thao - Football66
