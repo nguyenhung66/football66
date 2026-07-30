@@ -3,8 +3,15 @@
 
 
 
-#EXTINF:-1 tvg-name="ITA vs USA" group-title="🎯🏐 Bóng Chuyền Đỉnh Cao" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/football66/db8b01283f9c468a9650e10b778f6f188f96b952/B%C3%B3ng%20Chuy%E1%BB%81n%20%C4%90%E1%BB%89nh%20Cao/%C3%9D%20vs%20M%E1%BB%B9.png",ITA vs USA
+#EXTINF:-1 tvg-name="ITA vs USA" group-title="🎯🏐 Bóng Chuyền Đỉnh Cao" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/football66/db8b01283f9c468a9650e10b778f6f188f96b952/B%C3%B3ng%20Chuy%E1%BB%81n%20%C4%90%E1%BB%89nh%20Cao/%C3%9D%20vs%20M%E1%BB%B9.png",ITA vs USA - BLV KaKa
 https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
+
+#EXTINF:-1 tvg-name="ITA vs USA - BLV Chuối Tây" group-title="🎯🏐 Bóng Chuyền Đỉnh Cao" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/football66/db8b01283f9c468a9650e10b778f6f188f96b952/B%C3%B3ng%20Chuy%E1%BB%81n%20%C4%90%E1%BB%89nh%20Cao/%C3%9D%20vs%20M%E1%BB%B9.png",ITA vs USA - BLV Chuối Tây
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+
+#EXTINF:-1 tvg-name="ITA vs USA - BLV Số 9" group-title="🎯🏐 Bóng Chuyền Đỉnh Cao" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/football66/db8b01283f9c468a9650e10b778f6f188f96b952/B%C3%B3ng%20Chuy%E1%BB%81n%20%C4%90%E1%BB%89nh%20Cao/%C3%9D%20vs%20M%E1%BB%B9.png",ITA vs USA - BLV Số 9
+https://eqr2hdarxfliv.vcdn.cloud/1785330410_hd/1785330410_hd@720p.m3u8
 
 #EXTINF:-1 tvg-name="POL vs UKR" group-title="🎯🏐 Bóng Chuyền Đỉnh Cao" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/football66/db8b01283f9c468a9650e10b778f6f188f96b952/B%C3%B3ng%20Chuy%E1%BB%81n%20%C4%90%E1%BB%89nh%20Cao/Ba%20Lan%20vs%20Ukraine.png",POL vs UKR
 https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
