@@ -1,10 +1,5 @@
-#EXTM3U url-tvg="https://vnepg.site/epg.xml"
-
-
-
-
-url-tvg="https://raw.githubusercontent.com/nguyenhung66/football66/478ce1a3d772fe48874bd236aadc50c22c15015d/EPG%20T%E1%BB%95ng/epgbongchuyen.xml"
-#EXTINF:-1 tvg-name="POL vs UKR - Sever 1" group-title="🎯🏐 Bóng Chuyền Đỉnh Cao" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/football66/ba0cb238d088ff5ba93c07f13345468d70cdcd34/B%C3%B3ng%20Chuy%E1%BB%81n%20%C4%90%E1%BB%89nh%20Cao/Ba%20Lan%20vs%20Ukraine.png",POL vs UKR - Sever 1
+#EXTM3U url-tvg="https://raw.githubusercontent.com/nguyenhung66/football66/478ce1a3d772fe48874bd236aadc50c22c15015d/EPG%20T%E1%BB%95ng/epgbongchuyen.xml"
+#EXTINF:-1 tvg-id="POLUKR" tvg-name="POL vs UKR - Sever 1" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/football66/ba0cb238d088ff5ba93c07f13345468d70cdcd34/B%C3%B3ng%20Chuy%E1%BB%81n%20%C4%90%E1%BB%89nh%20Cao/Ba%20Lan%20vs%20Ukraine.png" group-title="🎯🏐 Bóng Chuyền Đỉnh Cao",POL vs UKR - Sever 1
 https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
 
 #EXTINF:-1 tvg-name="POL vs UKR - Sever 2" group-title="🎯🏐 Bóng Chuyền Đỉnh Cao" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/football66/ba0cb238d088ff5ba93c07f13345468d70cdcd34/B%C3%B3ng%20Chuy%E1%BB%81n%20%C4%90%E1%BB%89nh%20Cao/Ba%20Lan%20vs%20Ukraine.png",POL vs UKR - Sever 2
