@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="Football66">
   <channel id="POLUKR">
     <display-name>POL vs UKR</display-name>
   </channel>
 
   <programme start="20260730183000 +0700" stop="20260730203000 +0700" channel="POLUKR">
-    <title>Ba Lan vs Ukraine</title>
-    <desc>Trực tiếp bóng chuyền quốc tế</desc>
+    <title lang="vi">Ba Lan vs Ukraine</title>
+    <desc lang="vi">Trực tiếp bóng chuyền quốc tế</desc>
   </programme>
 </tv>
