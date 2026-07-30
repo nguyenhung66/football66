@@ -11,7 +11,8 @@ https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
 
 #EXTINF:-1 tvg-name="ITA vs USA - BLV Số 9" group-title="🎯🏐 Bóng Chuyền Đỉnh Cao" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/football66/db8b01283f9c468a9650e10b778f6f188f96b952/B%C3%B3ng%20Chuy%E1%BB%81n%20%C4%90%E1%BB%89nh%20Cao/%C3%9D%20vs%20M%E1%BB%B9.png",ITA vs USA - BLV Số 9
-https://eqr2hdarxfliv.vcdn.cloud/1785330410_hd/1785330410_hd@720p.m3u8
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
 
 #EXTINF:-1 tvg-name="POL vs UKR" group-title="🎯🏐 Bóng Chuyền Đỉnh Cao" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/football66/db8b01283f9c468a9650e10b778f6f188f96b952/B%C3%B3ng%20Chuy%E1%BB%81n%20%C4%90%E1%BB%89nh%20Cao/Ba%20Lan%20vs%20Ukraine.png",POL vs UKR
 https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
@@ -46,6 +47,11 @@ https://...
 #EXTINF:-1 group-title="🎯⚽️ Bóng Đá Đỉnh Cao",🕒 02:00 | DOR vs LEV | Server 9
 https://...
 
+
+
+
+#EXTINF:-1 group-title="🗓️ Tổ Buôn 247",Đại chiến Huấn Hoa Hồng - Vua Quạt. Idol Khánh Sky - CEO Tần Nguyễn tham chiến. Động cơ đằng sau là
+https://raw.githubusercontent.com/nguyenhung66/football66/097808fc90a146bde845af7e3f9ad6109a4f6124/T%E1%BB%95%20Bu%C3%B4n%20247/%C4%90%E1%BA%A1i%20chi%E1%BA%BFn%20Hu%E1%BA%A5n%20Hoa%20H%E1%BB%93ng%20-%20Vua%20Qu%E1%BA%A1t.%20Idol%20Kh%C3%A1nh%20Sky%20-%20CEO%20T%E1%BA%A7n%20Nguy%E1%BB%85n%20tham%20chi%E1%BA%BFn.%20%C4%90%E1%BB%99ng%20c%C6%A1%20%C4%91%E1%BA%B1ng%20sau%20l%C3%A0_.webm
 
 
 
