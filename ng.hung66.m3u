@@ -2,3 +2,4 @@
 #EXTINF:-1 tvg-id="vtv6hd" group-title="⚽️Football 66" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/logofootball-m3u/main/VTV6football66.png", VTV6 - Football VTV6
 udp://@225.1.2.154:30120
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT 4K - Nguyen Hung
+udp://@225.1.1.48:30120
