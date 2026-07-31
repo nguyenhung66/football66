@@ -145,7 +145,7 @@ http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=79284&exten
 
 
 #EXTINF:-1 tvg-id="vtv6" group-title="⚽️🇻🇳🏆ASEAN CUP 2026" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/logofootball-m3u/main/VTV6football66.png" , VTV6 - Football66
-https://vips-livecdn.fptplay.net/live/media/v6abr/live247-hls-avc/v6abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+udp://@225.1.2.154:30120
 
 #EXTINF:-1 tvg-id="tv360plus9" group-title="⚽️🇻🇳🏆ASEAN CUP 2026" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/logofootball-m3u/main/TV360%2B9football66.png",TV360+9 - Football66
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
